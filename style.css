@@ -1,0 +1,148 @@
+
+body {
+    text-align: center;
+    width: 100%
+}
+
+
+h1 {
+    Color: white;
+    background-image: url("./Images/Color-ComboOrange-GIF.gif");
+    height: 400px;
+    vertical-align: middle;
+    background-position: center;
+}
+
+.colorsBLock, .fonts_sect {
+    border: #3976b6 2px solid;
+    margin: 1em 5em;
+}
+
+/* Fonts Section */
+
+.fonts_sect div {
+    display: inline-block;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+    width: 40%;
+}
+
+.montseratt {
+    font-family: 'Montserrat', sans-serif;
+    width: 40%;
+    margin: 2em auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Colors Block */
+.figcaption {
+    font-size: 1em;    
+}
+.colors {
+    display: inline;
+    margin: 2%;
+    text-align: left;
+    
+    
+}
+
+#one, #two, #three, #four {
+}
+.colorsBLock {
+    position: relative;
+    overflow-y: auto;
+    text-align: center;
+
+
+}
+
+div .colors img {
+    width: 100%;
+}
+figure {
+    display: inline-block;
+    width: 15%;
+    margin: 1%;
+}
+.Colors_scheme {
+    align-items: center;
+}
+
+/* figcaption {
+    position: relative;
+    display: inline-block;
+    margin: 0 30px;
+} */
+
+.colors figure div {
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    margin: 0 auto;
+}
+
+
+/* 
+.navigation{
+    box-sizing: border-box;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dddddd;
+    left: 0px;
+    overflow-y: auto;
+    padding:30px;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 100%;
+    z-index: 999; */
+
+#one_one{color: white;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #2e3d7d;}
+#one_two{color: black;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #f79d52;}
+#two_one{color: white;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #000036;}
+#two_two{color: black;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #e2a04f;}
+#three_one{color: white;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #3976b6;}
+#three_two{color: black;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #f79c64;}
+#four_one{color: white;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #05245f;}
+#four_two{color: black;
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 600;background-color: #f54e00;}
+
